@@ -1,0 +1,3 @@
+populationapi :
+  url: https://public.opendatasoft.com/api/records/1.0/search/?dataset=population-francaise-communes-2014
+  rows: 40
